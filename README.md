@@ -1,7 +1,6 @@
 ## 프로젝트 
 ### NAEGRIMFARM
 
-배포 사이트 : http://naegrimfarm.site<br>
 프로젝트 일정 : 2022.06.28 ~ 2022.07.05<br>
 
 프론트엔드 깃헙 링크 : https://github.com/MeoSeon12Jo/naegrimfarm-frontend<br>
